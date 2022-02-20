@@ -1,8 +1,8 @@
 # React_Movie_TVSeries_Hub
-## Introduction
+## 📌Introduction
 * This Project is a Full Responsive Movie & TV Series Web App Application using ReactJS, Material UI & MovieDB API and deployed on Netlify.
 
-## Environment Setup
+## 📌Environment Setup
 
   #### 1. Clone App
   
@@ -14,7 +14,7 @@
      
   ```
     
- #### 2. Install node packages
+ #### 2. Install Node Packages
  
   * Move inside the cloned folder with name React_Movie_TVSeries_Hub.
   * Write the following command and press enter to download all required node modules.
