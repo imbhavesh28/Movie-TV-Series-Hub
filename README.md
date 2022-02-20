@@ -10,13 +10,13 @@
   * Write the following command and press enter.
   
   ```
-    $ git clone https://github.com/imbhavesh28/React_Movie_TVSeries_Hub.git  
+    $ git clone https://github.com/imbhavesh28/React_Movie_TV_Series_Hub.git  
      
   ```
     
  #### 2. Install Node Packages
  
-  * Move inside the cloned folder with name React_Movie_TVSeries_Hub.
+  * Move inside the cloned folder with name React_Movie_TV_Series_Hub.
   * Write the following command and press enter to download all required node modules.
  
    ```
