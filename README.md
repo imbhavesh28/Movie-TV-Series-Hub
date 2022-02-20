@@ -1,4 +1,4 @@
-# React_Movie_TVSeries_Hub
+# React Movie & TV Series Hub!
 ## 📌Introduction
 * This Project is a Full Responsive Movie & TV Series Web App Application using ReactJS, Material UI & MovieDB API and deployed on Netlify.
 
