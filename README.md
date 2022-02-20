@@ -16,7 +16,7 @@
     
  #### 2. Install node packages
  
-  * Move inside the cloned folder with name GitMarkonics.
+  * Move inside the cloned folder with name React_Movie_TVSeries_Hub.
   * Write the following command and press enter to download all required node modules.
  
    ```
